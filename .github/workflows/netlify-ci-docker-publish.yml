@@ -1,4 +1,4 @@
-name: CI/CD - Build Docker, Push to GHCR and Update Site
+name: Netlify CI - Build Docker, Push to GHCR and Update Site
 
 on:
   push:
